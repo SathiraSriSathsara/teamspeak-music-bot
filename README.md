@@ -24,4 +24,4 @@ Install the necessary libraries:
 ```
 
 
-Make sure to replace the server address, login credentials, and music file name with the appropriate values for your own setup. You can run this script from the command line using python script.py or by running it in an IDE like PyCharm.
+Make sure to replace the server address, login credentials, and music file name with the appropriate values for your own setup. You can run this script from the command line using "python bot.py" or by running it in an IDE like PyCharm.

@@ -12,7 +12,7 @@ This code loads an MP3 file named music.mp3 and plays it using PyDub's play() fu
 
 To build a TeamSpeak music bot in Python, you can use the TeamSpeak 3 Python API library, along with a music playback library such as PyDub. Here's an example of how you can get started:
 
-## Install the necessary libraries:
+Install the necessary libraries:
 
 ```bash
   pip install teamspeak

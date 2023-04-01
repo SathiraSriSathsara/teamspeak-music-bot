@@ -25,3 +25,10 @@ Install the necessary libraries:
 
 
 Make sure to replace the server address, login credentials, and music file name with the appropriate values for your own setup. You can run this script from the command line using "python bot.py" or by running it in an IDE like PyCharm.
+
+
+
+<div align="center">
+	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/dp-wp-yt-round.png" width="40" height="50">
+	<h4>Sathira Sri Sathsara @ 2023</h4>
+</div>	
